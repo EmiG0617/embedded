@@ -1,0 +1,1 @@
+This folder contains the files for the "Building Libraries in C and C++" assignment.
